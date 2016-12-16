@@ -1,0 +1,10 @@
+settings
+.class
+.project
+target
+.classpath
+.log
+.settings
+*.log
+logs
+*.bat/util
